@@ -18,5 +18,8 @@ import 'bootstrap/dist/js/bootstrap'
 import 'bootstrap/dist/css/bootstrap'
 
 import "controllers"
+<<<<<<< HEAD
 import "@hotwired/turbo-rails"
 
+=======
+>>>>>>> ebb2d6fe790c40879d02df6788bc53845894f434
